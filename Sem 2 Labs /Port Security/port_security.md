@@ -50,3 +50,7 @@ devices and check the connectivity.
 
 We’ve set the max mac address as 1 which means that when we try to ping from different end
 device, the connection will be timed out.
+
+
+![port_security violated restrictions](https://github.com/jayshah17/Packet-Tracer-Labs/assets/76842630/3e03873f-9c48-4202-b531-f290dd42fbae)
+
